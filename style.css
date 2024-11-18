@@ -1,0 +1,22 @@
+.container
+{
+    position: relative;
+    margin-left: 20%;
+    margin-top: 10%;
+}
+
+.container header
+{
+    position: relative;
+    margin-left: 5%;
+    color: green;
+}
+#resul
+{
+    display: block;
+}
+
+#sinop
+{
+    display: none;
+}
